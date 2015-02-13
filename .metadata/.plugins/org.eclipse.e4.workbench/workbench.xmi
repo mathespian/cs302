@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_KhrE8bM6EeScfIrptpFTKA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_KhrE8rM6EeScfIrptpFTKA" bindingContexts="_KhrE9LM6EeScfIrptpFTKA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CondMazeLab.java&quot; tooltip=&quot;CondMazeLab/CondMazeLab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CondMazeLab/CondMazeLab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;lalala.java&quot; tooltip=&quot;Project1/lalala.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Project1/lalala.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CondMazeLab.java&quot; tooltip=&quot;CondMazeLab/CondMazeLab.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CondMazeLab/CondMazeLab.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_KhrE8rM6EeScfIrptpFTKA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_KuL28rM6EeScfIrptpFTKA" label="%trimmedwindow.label.eclipseSDK" x="-102" y="41" width="906" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_KhrE8rM6EeScfIrptpFTKA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_KuL28rM6EeScfIrptpFTKA" label="%trimmedwindow.label.eclipseSDK" x="116" y="63" width="1105" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
@@ -89,7 +89,7 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_K3T9y7M6EeScfIrptpFTKA" elementId="org.eclipse.egit.ui.RepositoriesView" toBeRendered="false" ref="_K3SIkbM6EeScfIrptpFTKA"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_K3T9zLM6EeScfIrptpFTKA" containerData="7500" selectedElement="_K3T91rM6EeScfIrptpFTKA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_K3T9zLM6EeScfIrptpFTKA" containerData="7500" selectedElement="_K3T9zbM6EeScfIrptpFTKA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_K3T9zbM6EeScfIrptpFTKA" containerData="7500" selectedElement="_K3T9zrM6EeScfIrptpFTKA" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_K3T9zrM6EeScfIrptpFTKA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_K3GiYLM6EeScfIrptpFTKA"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_K3T9z7M6EeScfIrptpFTKA" containerData="2500">
@@ -150,7 +150,7 @@
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <children xsi:type="basic:Part" xmi:id="_iy_TwLM6EeScfIrptpFTKA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CondMazeLab.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CondMazeLab.java&quot; partName=&quot;CondMazeLab.java&quot; title=&quot;CondMazeLab.java&quot; tooltip=&quot;CondMazeLab/CondMazeLab.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CondMazeLab/CondMazeLab.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;620&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CondMazeLab.java&quot; partName=&quot;CondMazeLab.java&quot; title=&quot;CondMazeLab.java&quot; tooltip=&quot;CondMazeLab/CondMazeLab.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/CondMazeLab/CondMazeLab.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -272,7 +272,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Kvih0rM6EeScfIrptpFTKA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Kvih5LM6EeScfIrptpFTKA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_KiJnO7M6EeScfIrptpFTKA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Cfly97M8EeSskJ5BAmU3KA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_KiJnO7M6EeScfIrptpFTKA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Kvih07M6EeScfIrptpFTKA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -296,7 +296,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Kvih17M6EeScfIrptpFTKA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_KvooebM6EeScfIrptpFTKA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_KiJmtbM6EeScfIrptpFTKA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_CflzAbM8EeSskJ5BAmU3KA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_KiJmtbM6EeScfIrptpFTKA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Kvih2LM6EeScfIrptpFTKA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
